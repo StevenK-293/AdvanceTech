@@ -1,6 +1,8 @@
 # AdvanceTech
 Deleted Source Code From YellowGreg Account.
 
+- NOTE: Source code could be broken.
+
 ## Loadstring
 - **Strucid V2**
 ```lua
